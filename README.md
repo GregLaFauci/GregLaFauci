@@ -3,7 +3,8 @@
 
 
 <img src="https://raw.githubusercontent.com/greglafauci/greglafauci/master/gifs/coder.gif" width="75px">
-I'm [Greg](https://greglafauci.github.io)
+I am [Greg](https://greglafauci.github.io)
+
 <br />
 
 
