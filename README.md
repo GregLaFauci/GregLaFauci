@@ -4,7 +4,6 @@
 <a href="https://github.com/GregLaFauci">
   <img align="left" alt="Greg's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-</br>
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
