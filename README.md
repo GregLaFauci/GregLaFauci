@@ -2,8 +2,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/greglafauci/greglafauci/master/gifs/Hi.gif" width="30px">
 
 
-I'm [Greg](https://greglafauci.github.io) <img src="https://raw.githubusercontent.com/greglafauci/greglafauci/master/gifs/coder.gif" width="75px">
-
+<img src="https://raw.githubusercontent.com/greglafauci/greglafauci/master/gifs/coder.gif" width="75px">
+I'm [Greg](https://greglafauci.github.io)
 <br />
 
 
