@@ -3,9 +3,7 @@
 
 
 I'm [Greg](https://greglafauci.github.io) 
-<a href="https://www.linkedin.com/in/greglafauci/">
-  <img align="left" alt="Greg's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
 <br />
 
 
@@ -22,12 +20,17 @@ I'm [Greg](https://greglafauci.github.io)
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
 
-**🌱 Looking forward to learn:**
+**🌱 Learning:**
 
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 <code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
 
+**🎟 Connect with me here:  **
+<code><a href="https://www.linkedin.com/in/greglafauci/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 
 
+<a href="">
+  <img align="left" alt="Greg's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 [![Greg's github stats](https://github-readme-stats.vercel.app/api?username=greglafauci&show_icons=true)](https://github.com/greglafauci)
