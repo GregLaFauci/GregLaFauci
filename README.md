@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hi, I'm [Greg](https://greglafauci.github.io) 👋
+I'm [Greg](https://greglafauci.github.io) 👋
 
 
 
