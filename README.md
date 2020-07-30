@@ -30,8 +30,6 @@ I'm [Greg](https://greglafauci.github.io)
 <code><a href="https://www.linkedin.com/in/greglafauci/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 
 
-<a href="">
-  <img align="left" alt="Greg's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<img src="https://raw.githubusercontent.com/greglafauci/greglafauci/master/gifs/coder.gif" width="75px">
 
 [![Greg's github stats](https://github-readme-stats.vercel.app/api?username=greglafauci&show_icons=true)](https://github.com/greglafauci)
