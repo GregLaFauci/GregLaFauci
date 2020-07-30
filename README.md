@@ -25,7 +25,7 @@ I'm [Greg](https://greglafauci.github.io)
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 <code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
 
-**🎟 Connect with me here:  **
+**🎟 Connect with me here:**
 <code><a href="https://www.linkedin.com/in/greglafauci/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 
 
