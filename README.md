@@ -2,7 +2,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/greglafauci/greglafauci/master/gifs/Hi.gif" width="30px">
 
 
-I'm [Greg](https://greglafauci.github.io) 
+I'm [Greg](https://greglafauci.github.io) <img src="https://raw.githubusercontent.com/greglafauci/greglafauci/master/gifs/coder.gif" width="75px">
 
 <br />
 
@@ -30,6 +30,6 @@ I'm [Greg](https://greglafauci.github.io)
 <code><a href="https://www.linkedin.com/in/greglafauci/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 
 
-<img src="https://raw.githubusercontent.com/greglafauci/greglafauci/master/gifs/coder.gif" width="75px">
+
 
 [![Greg's github stats](https://github-readme-stats.vercel.app/api?username=greglafauci&show_icons=true)](https://github.com/greglafauci)
