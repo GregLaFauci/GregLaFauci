@@ -1,9 +1,9 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/greglafauci/greglafauci/master/gifs/Hi.gif" width="30px">
 
-
-<img src="https://raw.githubusercontent.com/greglafauci/greglafauci/master/gifs/coder.gif" width="75px">
 I am [Greg](https://greglafauci.github.io)
+<br />
+<img src="https://raw.githubusercontent.com/greglafauci/greglafauci/master/gifs/coder.gif" width="75px">
 
 <br />
 
