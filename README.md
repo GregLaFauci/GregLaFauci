@@ -33,5 +33,6 @@ I am [Greg](https://greglafauci.github.io)
 <code><a href="https://www.linkedin.com/in/greglafauci/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 
 
+[![Greg's github stats](https://github-readme-stats.vercel.app/api?username=greglafauci&show_icons=true)](https://github.com/greglafauci)
 
 
