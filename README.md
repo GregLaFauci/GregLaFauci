@@ -1,7 +1,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/greglafauci/greglafauci/master/gifs/Hi.gif" width="30px">
 
-I am [Greg](https://greglafauci.github.io)
+I am [Greg](https://greglafauci.com)
 <br />
 <img src="https://raw.githubusercontent.com/greglafauci/greglafauci/master/gifs/coder.gif" width="75px">
 
